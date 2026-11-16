@@ -2,6 +2,8 @@
 
 基于 React + Vite 的前端项目。
 
+> 注：记得要替换仓库地址。
+
 ## 技术栈
 
 - **React 19** + **TypeScript**（strict）
